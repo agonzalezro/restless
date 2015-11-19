@@ -1,0 +1,5 @@
+parent: null
+package: main
+import:
+- package: github.com/unrolled/render
+- package: github.com/drhodes/golorem
